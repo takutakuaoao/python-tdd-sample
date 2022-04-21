@@ -6,8 +6,9 @@
 -[x] equals()
 -[ ] nullとの等価性比較
 -[x] 5 CHF * 10 CHF
--[ ] DollarとFrancの重複
--[ ] equals()の一般化
--[ ] times()の一般化
+-[x] DollarとFrancの重複
+-[x] equals()の一般化
+-[x] times()の一般化
 -[x] DollarとFrancの比較
--[ ] 通貨の概念
+-[x] 通貨の概念
+-[x] testFrancMultiplicationを削除する？
