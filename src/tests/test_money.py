@@ -35,7 +35,6 @@ def test_plus_return_sum():
     assert type(result) is Sum and five == result.augend
     assert type(result) is Sum and five == result.addend
 
-
 def test_reduce_sum():
     sum = Sum(Money.dollar(3), Money.dollar(4))
     bank = Bank()
